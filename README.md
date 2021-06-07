@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋, I'm Kalpesh
+# Hi 👋, I'm Kalpesh
 ### A passionate mobile app developer from India</h3>
 [![Years](https://badges.pufler.dev/years/kalpeshtalkar)](https://github.com/kalpeshtalkar) [![Repos](https://badges.pufler.dev/repos/kalpeshtalkar)](https://github.com/kalpeshtalkar?tab=repositories) [![Gists](https://badges.pufler.dev/gists/kalpeshtalkar)](https://gist.github.com/kalpeshtalkar)
+
+![Contact Card](./contact-card.svg)
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshtalkar" alt="kalpeshtalkar" /></a> </p>-->
 
