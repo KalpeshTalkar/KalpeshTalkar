@@ -1,30 +1,21 @@
 <!--
 **KalpeshTalkar/KalpeshTalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Hi 👋, I'm Kalpesh
-### A passionate mobile app developer from India</h3>
+### A passionate mobile app developer</h3>
+<!--
 [![Years](https://badges.pufler.dev/years/kalpeshtalkar)](https://github.com/kalpeshtalkar) [![Repos](https://badges.pufler.dev/repos/kalpeshtalkar)](https://github.com/kalpeshtalkar?tab=repositories) [![Gists](https://badges.pufler.dev/gists/kalpeshtalkar)](https://gist.github.com/kalpeshtalkar)
+-->
 
 ![Contact Card](./contact-card.png)
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshtalkar" alt="kalpeshtalkar" /></a> </p>-->
 
 - 🔭 I’m currently working on <a href="https://apps.apple.com/app/timez-the-world-clock/id1523532990" target="_blank"><b>TimeZ - The World Clock</b></a>
-- 🌱 I’m currently learning <a href="https://developer.apple.com/tutorials/swiftui" target="_blank"><b>SwiftUI</b></a>
+- 🌱 Recently worked on decentralized app using Flutter and blockchain.
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/kalpeshtalkar" target="_blank"><b>GitHub</b></a>
-- 💬 Ask me about **iOS, Android, Swift, Objective C, Java, Kotlin, XCFramework, Certificate Pinning, Adaptive Media Streaming, DRM, ExoPlayer**
+- 💬 Ask me about **Flutter, iOS, Android, Swift, Objective C, Java, Kotlin, XCFramework, Certificate Pinning, Adaptive Media Streaming, DRM, ExoPlayer**
 - 📫 How to reach me: **Drop me a note on: kalpeshtalkar@gmail.com**
 
 ### My Open Source Projects:
